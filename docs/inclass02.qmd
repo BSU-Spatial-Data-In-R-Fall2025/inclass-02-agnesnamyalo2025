@@ -7,9 +7,9 @@ author:
 
 ---
 
-# Your first Quarto Document
+# Name and home
 
-For today's in-class work, you'll learn a few of the features of Quarto and get to practice using version control to track your changes to this document.
+Am Agnes Namyalo from Kampala-Uganda
 
 ## Add some more details to the Header
 
