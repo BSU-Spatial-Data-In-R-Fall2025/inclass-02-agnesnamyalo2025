@@ -4,7 +4,6 @@ format: html
 author:
   name: Agnes Namyalo
   affiliation: Boise State University
-
 ---
 
 # Name and home
@@ -18,6 +17,6 @@ Am a PhD studetn from Boise State University
 #Add birth code
 ---
 ```{r}
-4 + 11 +1992
+4 + 11 + 1992
 ```
 ---
