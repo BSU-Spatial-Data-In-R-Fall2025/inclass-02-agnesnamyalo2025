@@ -11,9 +11,9 @@ author:
 
 Am Agnes Namyalo from Kampala-Uganda
 
-## Add some more details to the Header
+## Add study details
 
-Modify the yaml header to include your name and affiliation. Save the document and commit the changes.
+Am a PhD studetn from Boise State University
 
 ## Write some text
 
